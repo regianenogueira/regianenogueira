@@ -10,7 +10,8 @@
 
 </br>
 </br>
-### 📝 **Latest Articles:**
+
+### 📝 Latest Articles
 
 <!-- BLOG:START -->
 <!-- BLOG:END -->
