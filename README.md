@@ -1,19 +1,29 @@
-### Hi there 👋
+<img align="right" width="300px" style="margin-top:-20px" src="https://i.ibb.co/NZ1JpVZ/20210330-195300.png">
 
-<!--
-**regianenogueira/regianenogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+</br>
 
-Here are some ideas to get you started:
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Regiane Nogueira</h1>
+ <a href="https://www.instagram.com/qaengineertools/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://twitter.com/QAEngineerTools">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/regiane-nogueira-a4059812/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+</br>
+</br>
+
  
   
 <div>
