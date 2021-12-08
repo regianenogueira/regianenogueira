@@ -1,8 +1,5 @@
 <img align="right" width="300px" style="margin-top:-20px" src="https://i.ibb.co/NFF2kGq/share-temp-pose-A.png">
 
-</br>
-</br>
-
 <div dsplay="inline-block">
  
  <h1 align="left">Regiane Nogueira</h1>
