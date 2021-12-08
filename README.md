@@ -22,7 +22,7 @@
  </br>
 </br>
 
- ##Languages and Frameworks I Know and Study
+### 🖥️ Languages and Frameworks I Know and Study
  
  <div>
 <a href="https://github.com/regianenogueira">
