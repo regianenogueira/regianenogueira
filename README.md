@@ -12,24 +12,24 @@
 </br>
 
  
-  
-<div>
+### 🖥️ Git Stats
+
+  <div>
 <a href="https://github.com/regianenogueira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regianenogueira&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=regianenogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- 
  
  </br>
 </br>
 
 ### 🖥️ Languages and Frameworks I Know and Study
  
- <div>
+<div>
 <a href="https://github.com/regianenogueira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=regianenogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regianenogueira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- ### 📕 Latest Blog Posts
+### 📝 **Latest Articles:**
 
 <!-- BLOG:START -->
 <!-- BLOG:END -->
