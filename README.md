@@ -10,6 +10,10 @@
 
 </br>
 </br>
+### 📝 **Latest Articles:**
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
  
 ### 🖥️ Git Stats
@@ -34,11 +38,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regianenogueira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-### 📝 **Latest Articles:**
-
-<!-- BLOG:START -->
-<!-- BLOG:END -->
-
 
 
  ![Snake animation](https://github.com/regianenogueira/regianenogueira/blob/output/github-contribution-grid-snake.svg)
