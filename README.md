@@ -29,9 +29,8 @@
 <a href="https://github.com/regianenogueira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regianenogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- 
- </br>
-</br>
+
+
 
 ### 🖥️ Languages and Frameworks I Know and Study
 
