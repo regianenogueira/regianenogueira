@@ -23,7 +23,9 @@
 </br>
 
 ### 🖥️ Languages and Frameworks I Know and Study
-
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+ </br>
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
  
 <div>
 <a href="https://github.com/regianenogueira">
