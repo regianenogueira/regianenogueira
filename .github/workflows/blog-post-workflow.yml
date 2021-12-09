@@ -11,7 +11,6 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v2
-        - uses: regianenogueira/blog-post-workflow@master
           with:
             # Replace this URL with your rss feed URL/s
             feed_list: "https://regianenogueira.github.io/feed.xml"
