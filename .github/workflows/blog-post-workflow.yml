@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: regianenogueira/blog-post-workflow@master
+        uses: regianenogueira/regianenogueira@master
         with:
           feed_list: "https://regianenogueira.github.io//feed.xml"
