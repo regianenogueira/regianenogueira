@@ -4,6 +4,9 @@ on:
   schedule:
     # Once a day at 8 AM
     - cron: 0 8 * * *
+  push:
+    branches:
+      - main
 
 jobs:
   update:
@@ -11,5 +14,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://jasonet.co/rss.xml
-          readme-section: feed
+          feed-url: https://regianenogueira.github.io//feed.xml
+          readme-section: example
+          branch: main
+
