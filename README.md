@@ -14,9 +14,8 @@
 </br>
 
 ### 📝 Latest Articles
-
-<!-- BLOG:START -->
-<!-- BLOG:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
  
 ### 🖥️ Git Stats
