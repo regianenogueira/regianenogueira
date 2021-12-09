@@ -16,7 +16,10 @@
 
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
-...
+* [Cypress Teste de Api Rest](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2016&#x2F;Cypress-Teste-de-Api-Rest&#x2F;)
+* [Criando uma API Fake sua automação de teste](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2016&#x2F;Criando-uma-API-Fake-sua-automa%C3%A7%C3%A3o-de-teste&#x2F;)
+* [Git Page](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2016&#x2F;Git-Page&#x2F;)
+* [Git e GitHub - Comandos](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2016&#x2F;Git-e-GitHub-Comandos&#x2F;)
 <!--END_SECTION:feed-->
 
 
