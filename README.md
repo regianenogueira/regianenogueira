@@ -1,8 +1,7 @@
 <a href="https://github.com/regianenogueira"><img align="right" width="300px" style="margin-top:-20px" src="https://i.ibb.co/Nm8T3ct/share-temp-pose-A-2.png"></a>
 
-<div dsplay="inline-block">
- 
- <h1 align="left"> ### Glad to see you here!!! I'm Regiane Nogueira</h1>
+
+### Hi, I'm Regiane Nogueira👋 
 
  </br>
  
@@ -14,8 +13,7 @@
  - 🤘 Hobbies: working out,reading, chat english.</br>
 
 </br>
-</br>
- 
+
  <div>
 <a href="https://www.instagram.com/qaengineertools/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/QAEngineerTools" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
