@@ -2,8 +2,18 @@
 
 <div dsplay="inline-block">
  
- <h1 align="left">Regiane Nogueira</h1>
+ <h1 align="left"> ### Glad to see you here!!! I'm Regiane Nogueira</h1>
+
  </br>
+ 
+ - 🔭 I’m currently working at Ci&T as Quality Engineer</br>
+ - 📝 I’m currently learning Automation Testing.
+ - 👩‍💻 +10 years of experience with software testing</br>
+ - 💬 Ask me about software testing and software automation.</br>
+ - ⚡ I Love with Software Testing.</br>
+ - 🤘 Hobbies: working out,reading, chat english.</br>
+
+</br>
 </br>
  
  <div>
