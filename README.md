@@ -2,9 +2,6 @@
 
 
 ### Hi, I'm Regiane Nogueira👋 
-
- </br>
- 
  - 🔭 I’m currently working at Ci&T as Quality Engineer</br>
  - 📝 I’m currently learning Automation Testing.
  - 👩‍💻 +10 years of experience with software testing</br>
