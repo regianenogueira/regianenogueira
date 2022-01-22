@@ -39,12 +39,26 @@
 
 
 
-### 🖥️ Languages and Frameworks I Know and Study
+## 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
+ - 💻 &nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white)&nbsp;
+![Python](	https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- 🌐 &nbsp;
+   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+ - 🛢 &nbsp;
+ ![Oracle](https://img.shields.io/badge/Oracle-333333?style=flat&logo=Oracle&logoColor=white)
+ ![MicrosoftSQLServer](https://img.shields.io/badge/-IMicrosoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+ 
+ - ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea&&logoColor=white)
  
 <div>
 <a href="https://github.com/regianenogueira">
