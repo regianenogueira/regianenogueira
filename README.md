@@ -21,10 +21,7 @@
 
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
-* [Como Documentar uma Api Rest](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2016&#x2F;Cypress-Teste-de-Api-Rest&#x2F;)
-* [API Fake pode te ajudar a adiantar sua automação ou desenvolvimento frontend](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2016&#x2F;Criando-uma-API-Fake-sua-automa%C3%A7%C3%A3o-de-teste&#x2F;)
-* [Git Page](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2016&#x2F;Git-Page&#x2F;)
-* [Git e GitHub - Comandos](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2016&#x2F;Git-e-GitHub-Comandos&#x2F;)
+* [Testando com Rest Assured uma API Fake criada com Json Server dentro de um container Docker](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2024&#x2F;Automa%C3%A7%C3%A3o-API-Reserva-Hotel&#x2F;)
 <!--END_SECTION:feed-->
 
 
