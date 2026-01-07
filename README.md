@@ -61,10 +61,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-333333?style=flat&logo=intellij-idea&&logoColor=white)
  
-<div>
-<a href="https://github.com/regianenogueira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regianenogueira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
  
 
 
