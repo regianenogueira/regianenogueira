@@ -32,10 +32,12 @@
  
 ### 🖥️ Git Stats
 
-  <div>
-<a href="https://github.com/regianenogueira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=regianenogueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/regianenogueira/regianenogueira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/regianenogueira/regianenogueira/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/regianenogueira/regianenogueira/output/github-contribution-grid-snake.svg">
+</picture>
+<img width="586" height="188" alt="image" src="https://github.com/user-attachments/assets/162f2a67-894e-4a11-be38-4e01de5a1fb1" />
 
 
 
