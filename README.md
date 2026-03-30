@@ -21,11 +21,7 @@
 
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
-* [Post 10](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2024&#x2F;meu-post-10&#x2F;)
-* [Post 11](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2024&#x2F;meu-post-11&#x2F;)
-* [Post 9](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2024&#x2F;meu-post-9&#x2F;)
-* [Post 8](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2024&#x2F;meu-post-8&#x2F;)
-* [Post 7](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2024&#x2F;meu-pos-7&#x2F;)
+* [Specification-Driven AI Testing: o futuro da automação já começou](https:&#x2F;&#x2F;regianenogueira.github.io&#x2F;&#x2F;2026&#x2F;specification-driven-testing&#x2F;)
 <!--END_SECTION:feed-->
 
 
