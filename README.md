@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/regianenogueira/regianenogueira/main/images/astronaut.png" width="200"/>
+  <img src="https://github.com/regianenogueira/regianenogueira.github.io/blob/main/images/astronaut.png" width="200"/>
 </div>
 
 # 👩‍💻 AI-Driven QA | Specification-Driven Testing
