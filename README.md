@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/regianenogueira/regianenogueira.github.io/blob/main/images/astronaut.png" width="200"/>
-</div>
+
 
 # 👩‍💻 AI-Driven QA | Specification-Driven Testing
 
@@ -11,6 +9,10 @@ I’m a Quality Engineer evolving how software testing is built using AI.
 👉 Transforming specifications into automated tests  
 👉 Reducing manual effort with AI-driven execution  
 👉 Exploring Context Engineering for scalable testing  
+
+<div align="center">
+  <img src="https://github.com/regianenogueira/regianenogueira.github.io/blob/main/images/astronaut.png" width="300"/>
+</div>
 
 ---
 
