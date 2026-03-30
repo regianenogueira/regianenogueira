@@ -23,6 +23,7 @@ A proof of concept where tests are generated from structured documentation inste
 - 📱 Mobile automation (Android)
 
 👉 <a href="https://github.com/regianenogueira/doc-driven-mobile-automation" target="_blank">View Project</a>
+👉 <a href="https://regianenogueira.github.io/docs/guia-metodologia-qa-sdd.html" target="_blank">Guia de Uso</a>
 
 ---
 
