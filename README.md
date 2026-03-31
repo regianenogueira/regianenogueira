@@ -1,24 +1,22 @@
-# 👩‍💻 AI-Driven QA | Specification-Driven Testing
+<h1>👩‍💻 AI-Driven QA | Specification-Driven Testing</h1>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<div>
+  <img src="https://raw.githubusercontent.com/regianenogueira/regianenogueira.github.io/main/images/astronaut.png" 
+       width="420" 
+       align="right"/>
 
-Hi, I'm Regiane Nogueira 👋  
+  <p><strong>Hi, I'm Regiane Nogueira 👋</strong></p>
 
-I’m a Quality Engineer evolving how software testing is built using AI.
+  <p>I’m a Quality Engineer evolving how software testing is built using AI.</p>
 
-👉 Transforming specifications into automated tests  
-👉 Reducing manual effort with AI-driven execution  
-👉 Exploring Context Engineering for scalable testing  
+  <p>
+    👉 Transforming specifications into automated tests<br>
+    👉 Reducing manual effort with AI-driven execution<br>
+    👉 Exploring Context Engineering for scalable testing
+  </p>
+  <br/>
+</div>
 
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/regianenogueira/regianenogueira.github.io/blob/main/images/astronaut.png" width="250"/>
-    </td>
-  </tr>
-</table>
----
 
 ## 🚀 Featured Project
 
