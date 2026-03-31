@@ -1,6 +1,8 @@
-
-
 # 👩‍💻 AI-Driven QA | Specification-Driven Testing
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 Hi, I'm Regiane Nogueira 👋  
 
@@ -10,9 +12,13 @@ I’m a Quality Engineer evolving how software testing is built using AI.
 👉 Reducing manual effort with AI-driven execution  
 👉 Exploring Context Engineering for scalable testing  
 
-<div align="center">
-  <img src="https://github.com/regianenogueira/regianenogueira.github.io/blob/main/images/astronaut.png" width="500"/>
-</div>
+    </td>
+
+    <td width="40%" align="center">
+      <img src="https://github.com/regianenogueira/regianenogueira.github.io/blob/main/images/astronaut.png" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
