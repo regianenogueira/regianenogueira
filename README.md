@@ -13,13 +13,11 @@ I’m a Quality Engineer evolving how software testing is built using AI.
 👉 Exploring Context Engineering for scalable testing  
 
     </td>
-
     <td width="40%" align="center">
       <img src="https://github.com/regianenogueira/regianenogueira.github.io/blob/main/images/astronaut.png" width="250"/>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🚀 Featured Project
